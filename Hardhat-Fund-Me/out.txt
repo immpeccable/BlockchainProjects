@@ -1,0 +1,9 @@
+yarn run v1.22.19
+$ /Users/tunahandundar/Desktop/BlockchainProjects/Hardhat-Fund-Me/node_modules/.bin/hardhat deploy
+Nothing to compile
+Local network detected! Deploying mocks...
+deploying "MockV3Aggregator" (tx: 0x6910c26ba26ebf069e3c7a9a23c5a7f45d943755939587b60d00eea7e677b6f1)...: deployed at 0x5FbDB2315678afecb367f032d93F642f64180aa3 with 694799 gas
+Mocks deployed!
+----------------------------------------------------------------
+
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
